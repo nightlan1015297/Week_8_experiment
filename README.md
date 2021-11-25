@@ -17,22 +17,22 @@ And using reveal.js presentation framwork as the presentation page at github pag
 ```
 ./root
   |
-  |---|------ Raw data from oscilloscope ------
-  |   |- RC
-  |   |- RL
-  |   |- damped_oscillation 
-  |   |- RLC_R_11.91 
-  |   |- RLC_R_993.9 
-  |   |- RLC_R_2200
-  |   |- secound_exp
-  |   
-  |---|------ Presentation resource ------
-  |   |- reveal.js 
-  |   |- audio
-  |   |- img
+  |------ Raw data from oscilloscope ------
+  |- RC
+  |- RL
+  |- damped_oscillation 
+  |- RLC_R_11.91 
+  |- RLC_R_993.9 
+  |- RLC_R_2200
+  |- secound_exp
   |
-  |---|------ Interaction plots for analyze------
-  |   |- interaction_plots
+  |------ Presentation resource ------
+  |- reveal.js 
+  |- audio
+  |- img
+  |
+  |------ Interaction plots for analyze------
+  |- interaction_plots
 ```
 
 If you are interesting at the experiment method and the data analysing in our experiment
