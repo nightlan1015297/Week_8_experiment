@@ -42,8 +42,3 @@ You can take a look at file in ./root with suffix .ipynb .
 ## Links
 Presentation : https://nightlan1015297.github.io/Week_8_experiment/
 
-All the interaction graph in folder `interaction_plot` can be opened by :
-https://nightlan1015297.github.io/Week_8_experiment/interaction_plot/`GRAPH.html` 
-
-For example `RLC_damping.html` can be opened by :
-https://nightlan1015297.github.io/Week_8_experiment/interaction_plot/RLC_damping.html
