@@ -42,5 +42,16 @@ You can take a look at file in ./root with suffix .ipynb .
 ## Links
 Presentation : https://nightlan1015297.github.io/Week_8_experiment/
 
-for interaction plots from plotly can be opened by :
-https://nightlan1015297.github.io/Week_8_experiment/`GRAPH.HTML`
+for interaction plots :
+- RC
+  - [Input source vs Capacitor](https://nightlan1015297.github.io/Week_8_experiment/RC_input_vs_capacitor.html)
+  - [Input source vs Resistor](https://nightlan1015297.github.io/Week_8_experiment/RC_input_vs_resistor.html)
+- RL
+  - [Input source vs Capacitor](https://nightlan1015297.github.io/Week_8_experiment/RL_input_vs_inductor.html)
+  - [Input source vs Resistor](https://nightlan1015297.github.io/Week_8_experiment/RL_input_vs_resistor.html)
+- RLC damped oscillation
+  - [RLC damped oscillation](https://nightlan1015297.github.io/Week_8_experiment/RLC_damping.html)
+- RLC band-pass filter
+  - [Resonance_analyze (abs Volt)](https://nightlan1015297.github.io/Week_8_experiment/RLC_resonance_absvolt.html)
+  - [Resonance_analyze (ref Volt)](https://nightlan1015297.github.io/Week_8_experiment/RLC_resonance_refvolt.html)
+  - [Resonance_analyze (Current)](https://nightlan1015297.github.io/Week_8_experiment/RLC_resonance_current.html)
