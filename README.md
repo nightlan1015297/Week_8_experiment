@@ -14,19 +14,35 @@ And using reveal.js presentation framwork as the presentation page at github pag
 
 ## Folder struc 
 
-All folders contains the raw data from oscilloscope.
+./root
+  |
+  |---|------ Raw data from oscilloscope ------
+  |   |- RC
+  |   |- RL
+  |   |- damped_oscillation 
+  |   |- RLC_R_11.91 
+  |   |- RLC_R_993.9 
+  |   |- RLC_R_2200
+  |   |- secound_exp
+  |   
+  |---|------ Presentation resource ------
+  |   |- reveal.js 
+  |   |- audio
+  |   |- img
+  |
+  |---|------ Interaction plots for analyze------
+  |   |- interaction_plots
 
-All the resource that github pages uses are in the root folder 
-(It is very messy but I got no time to clean it up)
 
 If you are interesting at the experiment method and the data analysing in our experiment
-You can take a look at file with suffix .ipynb . (not contain test.ipynb,it is just for testing purpose)
+You can take a look at file in ./root with suffix .ipynb . 
+(not contain test.ipynb,it is just for testing purpose)
 
 ## Links
 Presentation : https://nightlan1015297.github.io/Week_8_experiment/
 
-All the interaction graph with .htnl suffix can be opened by :
-https://nightlan1015297.github.io/Week_8_experiment/`GRAPH.html` 
+All the interaction graph in folder `interaction_plot` can be opened by :
+https://nightlan1015297.github.io/Week_8_experiment/interaction_plot/`GRAPH.html` 
 
 For example `RLC_damping.html` can be opened by :
-https://nightlan1015297.github.io/Week_8_experiment/RLC_damping.html
+https://nightlan1015297.github.io/Week_8_experiment/interaction_plot/RLC_damping.html
