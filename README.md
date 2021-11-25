@@ -55,3 +55,5 @@ for interaction plots :
   - [Resonance_analyze (abs Volt)](https://nightlan1015297.github.io/Week_8_experiment/RLC_resonance_absvolt.html)
   - [Resonance_analyze (ref Volt)](https://nightlan1015297.github.io/Week_8_experiment/RLC_resonance_refvolt.html)
   - [Resonance_analyze (Current)](https://nightlan1015297.github.io/Week_8_experiment/RLC_resonance_current.html)
+- Failed data
+  - [Bad fitting](https://nightlan1015297.github.io/Week_8_experiment/Output.html)
