@@ -14,6 +14,7 @@ And using reveal.js presentation framwork as the presentation page at github pag
 
 ## Folder struc 
 
+```
 ./root
   |
   |---|------ Raw data from oscilloscope ------
@@ -32,7 +33,7 @@ And using reveal.js presentation framwork as the presentation page at github pag
   |
   |---|------ Interaction plots for analyze------
   |   |- interaction_plots
-
+```
 
 If you are interesting at the experiment method and the data analysing in our experiment
 You can take a look at file in ./root with suffix .ipynb . 
