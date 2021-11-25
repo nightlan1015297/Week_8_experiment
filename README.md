@@ -42,3 +42,5 @@ You can take a look at file in ./root with suffix .ipynb .
 ## Links
 Presentation : https://nightlan1015297.github.io/Week_8_experiment/
 
+for interaction plots from plotly can be opened by :
+https://nightlan1015297.github.io/Week_8_experiment/`GRAPH.HTML`
